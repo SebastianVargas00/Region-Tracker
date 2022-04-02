@@ -1,6 +1,6 @@
 {
   "expo": {
-    "name": "tarea_9",
+    "name": "Region Tracker",
     "slug": "tarea_9",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -23,7 +23,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.Region.Tracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"
